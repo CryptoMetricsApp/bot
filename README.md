@@ -11,5 +11,5 @@ source venv/bin/activate - Linux and MacOS
   
 python -m pip install -r requirements.txt
 
-python app/main.py
+python main.py
 ```
